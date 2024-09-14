@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\Phd_Labwork\IoTCloudAnalyticsServer\.metadata\.plugins\org.eclipse.jdt.core
+1255793418.index
+3197205921.index
+1865797976.index

@@ -1,0 +1,5 @@
+---- vehicledataCascadingAnomaly Matches (4 in 2 files) ----
+IoTGatewayConfigWizard.java (main\java\com\iot\cloudanalytics):     vehicledataCascadingAnomaly(data);
+IoTGatewayConfigWizard.java (main\java\com\iot\cloudanalytics):    public static void  vehicledataCascadingAnomaly(String data )
+MQTTAsyncServiceMgr.java (main\java\com\iot\mqttservice):                	 // sensorstream.vehicledataCascadingAnomaly(messageBody);
+MQTTAsyncServiceMgr.java (main\java\com\iot\mqttservice):                	  sensorstream.vehicledataCascadingAnomaly(messageBody);
